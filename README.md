@@ -2,8 +2,6 @@
 
 A collection of websites and assets to spark creativity.
 
-## Inspiration
-
 ### Animations
 
 - [IBM Plex](https://www.ibm.com/plex/)
@@ -23,8 +21,7 @@ A collection of websites and assets to spark creativity.
 - [Rush Flyer Printing](https://www.rushflyerprinting.com/)
 - [Monster Tees](https://monstertees.com/)
 - [Wild Posters](https://wildposters.com/)
-
-- 
+ 
 ### Aesthetics
 
 - [AirBnb Cereal](https://airbnb.design/cereal/)
@@ -90,7 +87,10 @@ A collection of websites and assets to spark creativity.
 - [GPL Plugins](https://pluginrush.com/)
 
 
-# Resources
+# Downtime
+- [Broadway Liquor](https://winenliquor.com)
+- [WineVybe](https://winevybe.com)
+- [Follow The Winds](https://followthewinds.com)
 
 ### CSS Codes
 - [Freefrontend](https://freefrontend.com)
